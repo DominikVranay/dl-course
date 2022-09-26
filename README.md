@@ -41,7 +41,7 @@ Please check the course's Microsoft Teams group for the newest information.
 | Week 13<br>19. 12. - 23. 12. |     *—*     |           handing in assignments         |
 
 ## Assignment
-During the semester, each student must participate in the completion of an assignment. Assignments are done by teams of three or four students, within the team, students will be competing against each other in training the most accurate network (every student will prepare his/her own solution). Each team project must contain the following:
+During the semester, each student must participate in the completion of an assignment. Assignments are done by teams of two or three students, within the team, students will be competing against each other in training the most accurate network (every student will prepare his/her own solution). Each team project must contain the following:
 
  - a specified research goal (per team)
  - an overview of state-of-the-art solutions (per team)
