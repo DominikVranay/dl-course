@@ -18,3 +18,5 @@ Deep Learning only cares about the number of Floating Point Operations per secon
 * [Kaggle](https://kaggle.com)
 * [Google colab](https://colab.research.google.com/)
 * [Paperspace](https://paperspace.io/&R=NKIXO6I)
+
+[Tutorial for Google Colab](https://www.datacamp.com/tutorial/tutorial-google-colab-for-data-scientists)
