@@ -4,8 +4,7 @@ Welcome to the web page of the class **Introduction to Deep Learning** at the Te
 
 ## Your teachers
  - [prof. Peter Sinčák](https://www.petersincak.com)
- - [Ján Magyar, MSc.](http://www.cloudai.sk/people-janmagyar/)
- - [Andrij David](http://www.cloudai.sk/people-davidrasamoelina/)
+ - [MEng. Dominik Vranay](https://www.cloudai.sk/people-dominikvranay/)
 
 ## Grading
 To successfully pass this course, you have to meet the following requirements:
@@ -21,25 +20,25 @@ Throughout the semester you can get 40 points in the following distribution:
   - homework and class activities - 10 points
 
 ## Course plan
-Due to the ongoing COVID-19 pandemic, teaching will take place in a hybrid system with both online and in attendance classes. All lectures will be online, while labs will be online and also in attandance (see table lower). For in attendance classes, the study group will be split into two smaller halves (with no more than 12 students), which will attend classes alternating. In attendance classes will take place at 7.30 on Mondays in V4_V147. Additional online consultations are offered Fridays at 9.00 on Microsoft Teams.
+Labs will take place at 15.10 on Tuesdays in V4_V102 and Lectures at 13.30 on Thursdays in the same room.
 
 Please check the course's Microsoft Teams group for the newest information.
 
 |                              | **Lecture** |                               **Lab**                              |
 |:----------------------------:|:-----------:|:------------------------------------------------------------------:|
-|   Week 1<br>21. 9. - 27. 9.  |    *TBA*    |               introduction to the course<br>[online]               |
-|   Week 2<br>28. 9. - 4. 10.  |    *TBA*    |        [review of ANNs, theory of convolution](labs/lab02-ANNs-and-convolution.ipynb)<br>[1st group]        |
-|  Week 3<br>5. 10. - 11. 10.  |    *TBA*    |             [convolution - implementation](labs/lab03-convolution-from-scratch.ipynb)<br>[online]            |
-|  Week 4<br>12. 10. - 18. 10. |    *TBA*    |                [CNNs in keras](labs/lab04-convolutional-neural-networks-lenet.ipynb), [visualizing CNNs](labs/lab04b-cnn-visualization.ipynb)<br>[online]               |
-|  Week 5<br>19. 10. - 25. 10. |    *TBA*    |  [DL training cookbook](labs/lab05-deep-learning-cookbook.ipynb)<br>[online]  |
-|  Week 6<br>26. 10. - 1. 11.  |    *TBA*    |                      project report<br>[online]                    |
-|   Week 7<br>2. 11. - 8. 11.  |    *TBA*    | [text processing and recurrent neural nets](labs/lab07-Intro-to-text-processing-in-Deep-Learning.ipynb)<br>[online - in English] |
-|  Week 8<br>9. 11. - 15. 11.  |    *TBA*    |             DL for tabular data<br>[online - in English]           |
-|  Week 9<br>16. 11. - 22. 11. |    *TBA*    | [autoencoders](labs/lab09-introduction-to-autoencoders.ipynb)<br>[online] |
-| Week 10<br>23. 11. - 29. 11. |    *TBA*    | [Generative Adversarial Nets](labs/lab10-generative-adversarial-networks.ipynb)<br>[online] |
-|  Week 11<br>30. 11. - 6. 12. |    *TBA*    | [deep reinforcement learning](labs/lab11-deep-reinforcement-learning.ipynb)<br>[online] |
-|  Week 12<br>7. 12. - 13. 12. |    *TBA*    |           handing in assignments<br>[online presentation]          |
-| Week 13<br>14. 12. - 20. 12. |     *—*     |           handing in assignments<br>[online presentation]          |
+|   Week 1<br>26. 9. - 30. 9.  |    *TBA*    |               introduction to the course               |
+|   Week 2<br>3. 10. - 7. 10.  |    *TBA*    |        [review of ANNs, theory of convolution](labs/lab02-ANNs-and-convolution.ipynb)  |
+|  Week 3<br>10. 10. - 14. 10.  |    *TBA*    |             [convolution - implementation](labs/lab03-convolution-from-scratch.ipynb)  |
+|  Week 4<br>17. 10. - 21. 10. |    *TBA*    |   [CNNs in keras](labs/lab04-convolutional-neural-networks-lenet.ipynb), [visualizing CNNs](labs/lab04b-cnn-visualization.ipynb)              |
+|  Week 5<br>24. 10. - 28. 10. |    *TBA*    |  [DL training cookbook](labs/lab05-deep-learning-cookbook.ipynb)  |
+|  Week 6<br>31. 10. - 4. 11.  |    *TBA*    |                       *—*                 |
+|   Week 7<br>7. 11. - 11. 11.  |    *TBA*    | project report |
+|  Week 8<br>14. 11. - 18. 11.  |    *—*    |[text processing and recurrent neural nets](labs/lab07-Intro-to-text-processing-in-Deep-Learning.ipynb)      |
+|  Week 9<br>21. 11. - 25. 11. |    *TBA*    |  [DL for tabular data](labs/lab08-Intro-to-structured-data-in-Deep-Learning.ipynb)  |
+| Week 10<br>28. 11. - 2. 12. |    *TBA*    | [autoencoders](labs/lab09-introduction-to-autoencoders.ipynb), [Generative Adversarial Nets](labs/lab10-generative-adversarial-networks.ipynb) |
+|  Week 11<br>5. 12. - 9. 12. |    *TBA*    | [deep reinforcement learning](labs/lab11-deep-reinforcement-learning.ipynb)|
+|  Week 12<br>12. 12. - 16. 12. |    *TBA*    |           handing in assignments          |
+| Week 13<br>19. 12. - 23. 12. |     *—*     |           handing in assignments         |
 
 ## Assignment
 During the semester, each student must participate in the completion of an assignment. Assignments are done by teams of three or four students, within the team, students will be competing against each other in training the most accurate network (every student will prepare his/her own solution). Each team project must contain the following:
