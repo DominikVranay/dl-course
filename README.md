@@ -60,6 +60,7 @@ For further information on expected outcome and grading, please check [this page
  6. deep reinforcement learning
  7. time series prediction
  8. image noise reduction
+ 9. model explainability
 
 ## Further sources
  - [Deep Learning Simplified](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu )
