@@ -33,7 +33,7 @@ Please check the course's Microsoft Teams group for the newest information.
 |  Week 5<br>24. 10. - 28. 10. |    *TBA*    |  [DL training cookbook](labs/lab05-deep-learning-cookbook.ipynb)  |
 |  Week 6<br>31. 10. - 4. 11.  |    *TBA*    |                       *—*                 |
 |   Week 7<br>7. 11. - 11. 11.  |    *TBA*    | project report |
-|  Week 8<br>14. 11. - 18. 11.  |    *—*    |[text processing and recurrent neural nets](labs/lab07-Intro-to-text-processing-in-Deep-Learning.ipynb)      |
+|  Week 8<br>14. 11. - 18. 11.  |    *—*    |[text processing and recurrent neural nets](labs/lab07_Intro_to_text_processing_in_Deep_Learning.ipynb)      |
 |  Week 9<br>21. 11. - 25. 11. |    *TBA*    |  [DL for tabular data](labs/lab08-Intro-to-structured-data-in-Deep-Learning.ipynb)  |
 | Week 10<br>28. 11. - 2. 12. |    *TBA*    | [autoencoders](labs/lab09-introduction-to-autoencoders.ipynb), [Generative Adversarial Nets](labs/lab10-generative-adversarial-networks.ipynb) |
 |  Week 11<br>5. 12. - 9. 12. |    *TBA*    | [deep reinforcement learning](labs/lab11-deep-reinforcement-learning.ipynb)|
