@@ -22,8 +22,6 @@ Throughout the semester, you will be working on a single semestral project in wh
     - possible technologies and methods
     - dataset used
     - evaluation method
-- week 10 - short report
-    - each team will hand in a single A4 sheet with a short description of each team member's progress
 - weeks 12 and 13 - assignment due
 
 ## Final submission
